@@ -1,0 +1,1 @@
+In this repository you will find data and the script used in a course on Computational Methods applied to Education. The course is part of the curriculum of the Bachelor's Degree in Physics Education at the Federal University of Rio Grande do Sul. This data refers to the 2023/01 edition.
